@@ -1,0 +1,54 @@
+= Project Tracker
+
+.Stretagy for FreeCodeCamp Responsive Web Development Certification by Me
+[options="header"]
+|===
+| Modules | Status | Start Date | End Date | Estimated Time | Actual Time | Notes | Actual Effort In Hours | Effort Description | GitHub Links
+
+| Survey Form | Completed | 3 Sept 2024 | 4 Sept 2024 | 5 Hour | 6 Hour | CSS Properties, HTML Elements & Attributes | 
+Sept 3rd: Chapter 1: Done [1.30 Min] 
+Sept 3rd: Chapter 2: Done [1.30 Min] 
+Sept 4th: Chapter 3: Done [1.30 Min] 
+Sept 4th: Chapter 4: Done [1 Hour] 
+Sept 4th: Chapter 5: Done [30 Min] | 
+1. Had to put in some efforts while creating form with HTML 
+2. Had to put in some efforts to remember CSS colors 
+   Ex: complementary & tertiary | 
+https://github.com/Uj5Ghare/Responsive-Web-Designing/tree/main/1st_Module
+
+| Tribute Page | Completed | 5 Sept 2024 | 5 Sept 2024 | 5 Hour | 6:30 Min | CSS Box Model, Flexbox & Typography | 
+Sept 5th: Chapter 1: Done [1 Hour] 
+Sept 5th: Chapter 2: Done [30 Min] 
+Sept 5th: Chapter 3: Done [1.30 Min] 
+Sept 5th: Chapter 4: Done [1.30 Min] 
+Sept 5th: Chapter 5: Done [30 Min] | 
+1. Had to put in some efforts while creating Flexboxes. 
+2. Had to put in some efforts while building nutrition table with Typography. | 
+https://github.com/Uj5Ghare/Responsive-Web-Designing/tree/main/2nd_Module
+
+| Technical Documentation Page | Completed | 6 Sept 2024 | 6 Sept 2024 | 4 Hour | 5:30 Hour | CSS Pseudo Selectors, Responsive Web Design | 
+Sept 6th: Chapter 1: Done [1 Hour] 
+Sept 6th: Chapter 2: Done [1:30 Min] 
+Sept 6th: Chapter 3: Done [30 Min] 
+Sept 6th: Chapter 4: Done [1 Hour] | 
+1. Had to put in some efforts to remember different kinds of Pseudo selectors. | 
+https://github.com/Uj5Ghare/Responsive-Web-Designing/tree/main/3rd_Module
+
+| Product Landing Page | Completed | 7 Sept 2024 | 7 Sept 2024 | 4 Hour | 5 Hour | CSS Variables, CSS Grids | 
+Sept 7th: Chapter 1: Done [1:30 Min] 
+Sept 7th: Chapter 2: Done [1:30 Min] 
+Sept 7th: Chapter 3: Done [1 Hour] | 
+1. Had to put in some efforts to understand how to use variables and grids. | 
+https://github.com/Uj5Ghare/Responsive-Web-Designing/tree/main/4th_Module
+
+| Personal Portfolio Webpage | Completed | 8 Sept 2024 | 8 Sept 2024 | 3 Hour | 4 Hour | CSS Animation, CSS Transform | 
+Sept 8th: Chapter 1: Done [30 Min] 
+Sept 8th: Chapter 2: Done [1:30 Min] 
+Sept 8th: Chapter 3: Done [1 Hour] | 
+1. Had to put in some efforts to use `calc` and `linear-gradient` functions. | 
+https://github.com/Uj5Ghare/Responsive-Web-Designing/tree/main/5th_Module
+
+Portfolio Website: https://uj5ghare.github.io/Responsive-Web-Designing/
+
+Certification Link: https://www.freecodecamp.org/certification/uj5ghare/responsive-web-design 
+|===
